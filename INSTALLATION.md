@@ -25,6 +25,8 @@ Last step is to modify the shell of the 2ds. I used some cheap files, which I bo
 
 ![shell trimmed](https://github.com/Refuhr/2dsxlusbc/blob/main/images/shell-trimmed.jpg)
 
+Modify this bracket, which holds the charging port in place. (insert picture).
+
 Finished result:
 
 ![done](https://github.com/Refuhr/2dsxlusbc/blob/main/images/port-in-shell.jpg)
