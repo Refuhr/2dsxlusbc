@@ -6,7 +6,7 @@ This is an adapter PCB designed to put an USB Type C port as the charging port o
 
 # Features
 
-This PCB allows your 2ds XL to be charged via USB Type C with an USB A to USB C cable. Additionally if you use two 5.1k 0402 resistors it enables USB Type C Host charging, which means that your 2ds should now be compatible with any USB PD Charger (not tested yet).
+This PCB allows your 2ds XL to be charged via USB Type C with an USB A to USB C cable. Additionally, if you use two 5.1k 0402 resistors it enables USB Type C Host charging, which means that your 2ds should now be compatible with any USB PD Charger (not tested yet).
 
 # What you need
 
@@ -24,7 +24,7 @@ Instructions for assembly/installation can be found in [INSTALLATION.md](https:/
 
 # PCB
 
-By measuring the pads of the old charging port, I was able to design a [custom footprint](https://easyeda.com/component/d013406ddfa94d40b684a1f854966128) for the charging port of the 2ds xl in easy eda. The PCB with the USB Type C port is held down with solder at the original pads. It seems to be quite strong, but superglue wouldn't hurt to help with the rigitity of the port.  
+By measuring the pads of the old charging port, I was able to design a [custom footprint](https://easyeda.com/component/d013406ddfa94d40b684a1f854966128) for the charging port of the 2ds xl in easyeda. The PCB with the USB Type C port is held down with solder at the original pads. It seems to be quite strong, but superglue wouldn't hurt to help with the rigidity of the port.  
 Top layer:
 ![Top layer](https://github.com/Refuhr/2dsxlusbc/blob/main/images/top.png)
 Bottom layer:
