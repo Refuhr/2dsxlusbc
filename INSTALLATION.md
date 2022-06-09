@@ -11,7 +11,7 @@ Fully disassemble the 2ds XL and take out the motherboard. Put some new solder o
 
 ![port](https://github.com/Refuhr/2dsxlusbc/blob/main/images/port.jpg)  
 
-Now take a heat gun, heat up the the pads and carefully use  tweezers to get the port out (optionally: I used some Kepton Tape to protect the other components).
+Now take a heat gun, heat up the pads and carefully use  tweezers to get the port out (optionally: I used some Kapton Tape to protect the other components).
 
 ![port removed](https://github.com/Refuhr/2dsxlusbc/blob/main/images/port-removed.jpg)
 
