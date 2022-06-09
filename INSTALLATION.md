@@ -1,7 +1,7 @@
 # PCB
 
 Your PCBs might arrive with some [slight perforations, from the breakaway panelization design](https://github.com/Refuhr/2dsxlusbc/blob/main/images/pcb.jpg) during PCB manufacturing. These can be left alone, or optionally a side cutter can be used and the rest filed/sanded away.
-Take the prepped PCB and solder the USB Type C Port and optionally the two resistors.  
+Take the prepped PCB and solder the USB Type C Port and optionally the two resistors onto it.  
 
 ![pcb soldered](https://github.com/Refuhr/2dsxlusbc/blob/main/images/pcb-soldered.jpg)  
 
