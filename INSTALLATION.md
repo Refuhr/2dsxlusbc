@@ -16,7 +16,7 @@ Now take a heat gun, heat up the pads and carefully use  tweezers to get the por
 ![port removed](https://github.com/Refuhr/2dsxlusbc/blob/main/images/port-removed.jpg)
 
 Now clean up the pads, so that there is a flat surface. You can use a desoldering pump or desoldering braid. I accidentally scratched the ground plane a bit.  
-Align the soldered PCB to the Pads on the side where the old connector was and keep it in place with tape or UHU Patafix/Bluetag (this works really well for keeping small PCBs in place for soldering).  
+Align the soldered PCB to the Pads on the side where the old connector was and keep it in place with tape or UHU Patafix/Blu-Tack (this works really well for keeping small PCBs in place for soldering).  
 Now solder the PCB in place and you are almost done!  
 
 ![pcb with port](https://github.com/Refuhr/2dsxlusbc/blob/main/images/pcb-with-port.jpg)  
