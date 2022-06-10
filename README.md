@@ -11,8 +11,8 @@ This PCB allows your 2ds XL to be charged via USB Type C with an USB A to USB C 
 # What you need
 
 -the PCB, available from [oshpark](https://oshpark.com/shared_projects/KSdF5ITT) ($0.60 shipped in the US, about 0.70€ shipped in the EU), [gerbers](https://github.com/Refuhr/2dsxlusbc/blob/main/Gerber_PCB_2dsxlusbc_V4.zip)  
--the USB Type C port: [Ebay](https://www.ebay.com/itm/153460023680) or [Aliexpress](https://de.aliexpress.com/item/4000857925361.html) (search for: usb type c 6 pin)  
--optional (required for USB C Host charging): two 5.1K 0402 resistors (available at local electronics store)  
+-the USB Type C port: [Ebay](https://www.ebay.com/itm/153460023680) or [Aliexpress](https://www.aliexpress.com/item/4000857925361.html) (search for: usb type c 6 pin)  
+-optional (required for USB C Host charging): two 5.1K 0402 resistors (available at [local electronics store in Germany](https://www.conrad.de/de/p/tru-components-tc-0402wgf5101tce203-dickschicht-widerstand-5-1-k-smd-0402-0-063-w-1-100-ppm-c-1-st-tape-cut-1585197.html) 10X 0.20€ or Ebay/Aliexpress/Digikey/etc.)  
 -soldering iron with solder  
 -heat gun for removing the original charging port (can be done without an heat gun, I personally wouldn't recommend it)  
 -desoldering braid/desoldering pump  
@@ -32,4 +32,4 @@ Bottom layer:
 
 # Thanks
 
-Thank you to [rorosaurus](https://github.com/rorosaurus/3ds-xl-usb-c) and [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) for the inspiration of this PCB!
+Thank you to [rorosaurus](https://github.com/rorosaurus/3ds-xl-usb-c) and [makho](https://github.com/makhowastaken/3DS_C) for the inspiration of this PCB!
