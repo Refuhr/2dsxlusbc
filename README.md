@@ -6,7 +6,7 @@ This is an adapter PCB designed to put an USB Type C port as the charging port o
 
 # Features
 
-This PCB allows your 2ds XL to be charged via USB Type C with an USB A to USB C cable. Additionally, if you use two 5.1k 0402 resistors it enables USB Type C Host charging, which means that your 2ds should now be compatible with any USB PD Charger (not tested yet).
+This PCB allows your 2ds XL to be charged via USB Type C with an USB A to USB C cable. Additionally, if you use two 5.1k 0402 resistors it enables USB Type C Host charging, which means that your 2ds should now be compatible with any USB PD Charger.
 
 # What you'll need
 
