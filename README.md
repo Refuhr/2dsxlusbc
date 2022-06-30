@@ -2,7 +2,7 @@
 
 This is an adapter PCB designed to put an USB Type C port as the charging port of a Nintendo 2ds XL.  
 
-![Finished Mod](/images/port-in-shell.jpg)
+![Finished Mod](/images/finished.jpg)
 
 # Features
 

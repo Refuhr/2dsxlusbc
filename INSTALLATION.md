@@ -1,6 +1,9 @@
 # PCB
 
-Your PCBs might arrive with some [slight perforations, from the breakaway panelization design](/images/pcb.jpg) during PCB manufacturing. These can be left alone, or optionally a side cutter can be used and the rest filed/sanded away.
+Your PCBs might arrive with some slight perforations, from the breakaway panelization design during PCB manufacturing. These can be left alone, or optionally a side cutter can be used and the rest filed/sanded away.
+
+![pcb-comparison](/images/pcb-comparison.jpg)
+
 Take the prepped PCB and solder the USB Type C Port and optionally the two resistors onto it.  
 
 ![pcb soldered](/images/pcb-soldered.jpg)  
@@ -38,8 +41,10 @@ Now modify the shell of the 2ds. I used some cheap files, which I bought for cle
 
 ![shell trimmed](/images/shell-trimmed.jpg)
 
-Modify this bracket, which holds the charging port in place. (insert picture).
+Modify this bracket, which holds the charging port in place. Cut away the bottom part until the USB Type C port fits beneath it.
+
+![cut bracket](/images/bracket.jpg)
 
 Finished result:
 
-![done](/images/port-in-shell.jpg)
+![done](/images/finished.jpg)	
