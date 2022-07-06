@@ -3,5 +3,5 @@ At first, I chose 0402 resistors for my hardware design to act as the pulldown r
 
 # Version guide  
 -[0402](/0402) initial PCB with 0402 resistor (tested and working perfectly)  
--[0603](/0603) slightly bigger 0603 resistors (not tested!)
+-[0603](/0603) slightly bigger 0603 resistors (not tested!)  
 -[0805](/0805) bigger 0805 resistor (not tested!)
