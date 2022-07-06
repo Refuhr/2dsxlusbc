@@ -9,7 +9,7 @@ Top layer:
 Bottom layer:  
 ![0603 bottom layer](../images/0603-bottom.png)  
 -[0805](0805) bigger 0805 resistor (not tested!)  
-Top layer:
+Top layer:  
 ![0805 top layer](../images/0805-top.png)  
 Bottom layer:  
 ![0805 bottom layer](../images/0805-bottom.png)  
