@@ -4,7 +4,7 @@ Your PCBs might arrive with some slight perforations, from the breakaway paneliz
 
 ![pcb-comparison](/images/pcb-comparison.jpg)
 
-Take the prepped PCB and solder the USB Type C Port and optionally the two resistors onto it.  
+Take the prepped PCB and solder the USB Type C Port and optionally the two resistors onto it (same for 0603 and 0805).  
 
 ![pcb soldered](/images/pcb-soldered.jpg)  
 
