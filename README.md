@@ -30,9 +30,9 @@ By measuring the pads of the old charging port, I was able to design a [custom f
 Feel free to make changes to the design, design files (easyeda) can be found [here](/design%20files). For more information on the different versions visit [Version guide](/design%20files/README.md).
 
 Top layer 0402:
-![Top layer](/images/top.png)
+![Top layer](/images/0402-top.png)
 Bottom layer 0402:
-![Bottom layer](/images/bottom.png)
+![Bottom layer](/images/0402-bottom.png)
 
 # Thanks
 
