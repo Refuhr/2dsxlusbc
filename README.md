@@ -27,7 +27,7 @@ Instructions for assembly/installation can be found in [INSTALLATION.md](/INSTAL
 
 By measuring the pads of the old charging port, I was able to design a [custom footprint](https://easyeda.com/component/d013406ddfa94d40b684a1f854966128) for the charging port of the 2ds xl in easyeda. The PCB with the USB Type C port is held down with solder at the original pads. It seems to be quite strong, but superglue wouldn't hurt to help with the rigidity of the port.  
 
-Feel free to make changes to the design, design files (easyeda) can be found [here](/design%20files). For more information on the different versions visit [Version guide](/design%20files/README.md).
+Feel free to make changes to the design, design files (easyeda) can be found [here](/design%20files). There are 4 different versions (0402\[first version, tested\], 0603, 0805, 1206), wich only differ in the resistor package. For more information on the different versions visit [Version guide](/design%20files/README.md).
 
 Top layer 0402:
 ![Top layer](/images/0402-top.png)
