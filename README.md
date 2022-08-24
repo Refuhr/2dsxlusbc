@@ -9,7 +9,7 @@ This is an adapter PCB designed to put an USB Type C port as the charging port o
 This PCB allows your 2ds XL to be charged via USB Type C with an USB A to USB C cable. Additionally, if you use two 5.1k 0402 (0603, 0805, 1206 designs available but not tested yet) resistors it enables USB Type C Host charging, which means that your 2ds should now be compatible with any USB PD Charger.
 
 # What you'll need  
-Before you order a PCB you have to decide which PCB version you want to choose. I now have two major differences: with pads for a wireless charging mod (not tested yet) or without. Both versions come in different resistor packages. More information can be found [here](design%20files/README.md).
+Before you order a PCB you have to decide which PCB version you want to choose. I now have two major versions: with pads for a wireless charging mod (not tested yet) or without. Both versions come in different resistor packages. More information can be found [here](design%20files/README.md).
 
 -the PCB (without the pads), available from oshpark: [0402](https://oshpark.com/shared_projects/pbCMp1gR), [0603](https://oshpark.com/shared_projects/2moRwhC7), [0805](https://oshpark.com/shared_projects/RokBYKXV), [1206](https://oshpark.com/shared_projects/wtxNBJHK) ($0.60 shipped in the US, about 0.70€ shipped in the EU), [gerbers](gerber)  
 -the USB Type C port: [Ebay](https://www.ebay.com/itm/153460023680) or [Aliexpress](https://www.aliexpress.com/wholesale?&SearchText=usb+type+c+6+pin) 10X $2-3 (search for: usb type c 6 pin)  
