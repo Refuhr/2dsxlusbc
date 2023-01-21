@@ -6,22 +6,25 @@ When the reddit user [u/TheLaserSonic](https://www.reddit.com/user/TheLaserSonic
 # Which version to choose and why  
 All these versions are only different by the resistor package they use (and if they have pads for wireless charging or not, indicated by *filename*_**Qi**). My standard design was the one with the size of 0402, which is thoroughly tested and is confirmed to be working without any problems. It is small but not so easy to solder. Generally, the bigger the resistors get, the easier it is to solder them in place but also the bigger the PCB gets. I personally would recommend 0805 because it is the perfect compromise between size and being easy to solder. The bigger size 1206 would work too and I would recommend it to people who are not that confident in their soldering skills, though you might have to cut off a bit more plastic from the bracket, which keeps the charging port and battery in place. In the end if you are confident in your soldering skills choose the version, for which you can get the resistors the easiest.
 
+# Update 2023/01/21:  
+1206 and 0603 Version of the no QI boards seem to work without any problems, so it is safe to assume that the 0805 will also work.  
+
 # Version guide  
-- [0402](0402) initial PCB with 0402 resistor (tested and working perfectly)  
+- [0402](0402) initial PCB with 0402 resistor  
 - [0402-Qi](0402/0402-Qi) 0402 PCB with pads for a Qi mod (not tested yet)   
-- [0603](0603) slightly bigger 0603 resistors [order via oshpark](https://oshpark.com/shared_projects/2moRwhC7) (not tested!)  
+- [0603](0603) slightly bigger 0603 resistors [order via oshpark](https://oshpark.com/shared_projects/2moRwhC7)  
 - [0603-Qi](0603/0603-Qi) 0603 PCB with pads for a Qi mod (not tested yet)  
 Top layer:  
 ![0603 top layer](../images/0603-top.png)  
 Bottom layer:  
 ![0603 bottom layer](../images/0603-bottom.png)  
-- [0805](0805) bigger 0805 resistor [order via oshpark](https://oshpark.com/shared_projects/RokBYKXV) (not tested!)  
+- [0805](0805) bigger 0805 resistor [order via oshpark](https://oshpark.com/shared_projects/RokBYKXV)  
 - [0805-Qi](0805/0805-Qi) 0805 PCB with pads for a Qi mod (not tested yet)  
 Top layer:  
 ![0805 top layer](../images/0805-top.png)  
 Bottom layer:  
 ![0805 bottom layer](../images/0805-bottom.png)  
-- [1206](1206) even bigger 1206 resistors [order via oshpark](https://oshpark.com/shared_projects/wtxNBJHK) (not tested!)  
+- [1206](1206) even bigger 1206 resistors [order via oshpark](https://oshpark.com/shared_projects/wtxNBJHK)  
 Top layer:  
 ![1206 top layer](../images/1206-top.png)  
 Bottom layer:  
