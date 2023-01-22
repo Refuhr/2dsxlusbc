@@ -11,7 +11,7 @@ This PCB allows your 2ds XL to be charged via USB Type C with an USB A to USB C 
 # What you'll need  
 Before you order a PCB you have to decide which PCB version you want to choose. I now have two major versions: with pads for a wireless charging mod (not tested yet) or without. Both versions come in different resistor packages. More information can be found [here](design%20files/README.md).
 
--the PCB (without the pads), available from oshpark: [0402](https://oshpark.com/shared_projects/pbCMp1gR), [0603](https://oshpark.com/shared_projects/2moRwhC7), [0805](https://oshpark.com/shared_projects/RokBYKXV), [1206](https://oshpark.com/shared_projects/wtxNBJHK) ($0.60 shipped in the US, about 0.70€ shipped in the EU), [gerbers](gerber)  
+-the PCB (non QI version), available from oshpark: [0402](https://oshpark.com/shared_projects/pbCMp1gR), [0603](https://oshpark.com/shared_projects/2moRwhC7), [0805](https://oshpark.com/shared_projects/RokBYKXV), [1206](https://oshpark.com/shared_projects/wtxNBJHK) ($0.60 shipped in the US, about 0.70€ shipped in the EU), [gerbers](gerber)  
 -the USB Type C port: [Ebay](https://www.ebay.com/itm/153460023680) or [Aliexpress](https://www.aliexpress.com/wholesale?&SearchText=usb+type+c+6+pin) 10X $2-3 (search for: usb type c 6 pin)  
 -optional (required for USB C Host charging): two 5.1K 0402 (0603, 0805, 1206 designs available but not tested yet) resistors (available at [local electronics store in Germany](https://www.conrad.de/de/p/tru-components-tc-0402wgf5101tce203-dickschicht-widerstand-5-1-k-smd-0402-0-063-w-1-100-ppm-c-1-st-tape-cut-1585197.html) 10X 0.20€ or Ebay/Aliexpress/Digikey/etc.)  
 -soldering iron with solder  
